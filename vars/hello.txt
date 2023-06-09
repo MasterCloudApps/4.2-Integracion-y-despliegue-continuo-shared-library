@@ -1,0 +1,1 @@
+Prints the string passed as a parameter using the echo step.
